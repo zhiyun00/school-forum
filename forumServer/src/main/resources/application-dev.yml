@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    password: root
+my:
+  file:
+    serverPath: D://var/upload/
