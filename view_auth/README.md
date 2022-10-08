@@ -1,4 +1,4 @@
-# hcs_discuz_view_auth
+# view_auth
 
 ## Project setup
 ```
